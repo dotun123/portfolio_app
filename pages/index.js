@@ -51,7 +51,7 @@ const[darkMode,setDarkMode]=useState(false)
             <h1 className="text-xl font-burtons text-[gray] dark:text-[black]">developedbyjustice</h1>
             <ul className="flex items-center">
               <li><BsFillMoonStarsFill onClick={() => setDarkMode(!darkMode)} className="cursor-pointer text-xl dark:text-[black] text-[white]"/></li>
-              <li><a href="/resume.pdf" target="_blank" rel="noopener noreferrer" className="bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-md ml-8 ">Resume</a></li>
+              <li><a href="/dotun_resume2024.pdf" target="_blank" rel="noopener noreferrer" className="bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-md ml-8 ">Resume</a></li>
             </ul>
           </nav>
           <div className="text-center p-10 ">
