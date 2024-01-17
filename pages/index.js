@@ -63,7 +63,7 @@ const[darkMode,setDarkMode]=useState(false)
           </div>
           <div className="text-3xl flex justify-center gap-16 py-3 text-gray-600 ">
             <a href="https://www.facebook.com/justice.a.7" target="_blank"><AiFillFacebook className="hover:text-[#160c0c]"/></a>
-            <a href="www.linkedin.com/in/justice-agunkejoye-b6b089193" target="_blank"><AiFillLinkedin className="hover:text-[#160c0c]"/></a>
+            <a href="https://www.linkedin.com/in/justice-agunkejoye-b6b089193" target="_blank"><AiFillLinkedin className="hover:text-[#160c0c]"/></a>
             <a href="https://www.youtube.com/channel/UCWXx4apS727Ei1crejr2VNQ" target="_blank"><AiFillYoutube className="hover:text-[#160c0c]"/></a>
             <a href="https://github.com/dotun123" target="_blank"><AiFillGithub className="hover:text-[#160c0c]"/></a>
           </div>
