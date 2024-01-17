@@ -67,7 +67,7 @@ const[darkMode,setDarkMode]=useState(false)
             <a href="https://www.youtube.com/channel/UCWXx4apS727Ei1crejr2VNQ" target="_blank"><AiFillYoutube className="hover:text-[#160c0c]"/></a>
             <a href="https://github.com/dotun123" target="_blank"><AiFillGithub className="hover:text-[#160c0c]"/></a>
           </div>
-          <div className="relative mx-auto bg-gradient-to-b from-teal-500 rounded-full w-80 h-80 mt-20 overflow-hidden md:h-80 md:w-80 md:mr-20">
+          <div className="relative mx-auto bg-gradient-to-b from-teal-500 rounded-full w-80 h-80 mt-20 overflow-hidden md:h-80 md:w-80 md:mx-40">
           <Image src={justice} layout="fill" objectFit="cover" className="mt-5" />
           </div>
         </section>
